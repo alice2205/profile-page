@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Roboto&display=swap');
+
+.content {
+    background-color: #FFFFFF;
+    padding: 28px 25px;
+    margin: 0 auto;
+    display: flex;
+}
+
+p {
+    margin: 0;
+}
+
+.icon_span {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+}
+
+.icon {
+    padding-right: 10px;
+    margin: 0;
+}
+
+.icons {
+    padding-bottom: 20px;
+}
+
+.user_description {
+    padding-left: 28px;
+}
+
+.name {
+    font-family: 'Cabin';
+    font-weight: 400;
+    font-size: 24px;
+    color: #1B1B1B;
+    text-align: left;
+    padding-bottom: 2px;
+}
+
+.user_position {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    padding-bottom: 16px;
+}
+
+.about_user {
+    text-align: left;
+}
+
+.box {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
