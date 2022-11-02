@@ -1,0 +1,17 @@
+.btn {
+    margin-left: 20px;
+    height: 44px;
+    padding: 8px 22px;
+    box-sizing: content-box;
+    background: #FFFFFF;
+    color:  #373AF5;
+    font-size: 16px;
+    border: 1px solid #373AF5;
+    border-radius: 8px;
+    align-items: center;
+    display: inline-block;
+}
+
+img {
+    padding-right: 6px;
+}

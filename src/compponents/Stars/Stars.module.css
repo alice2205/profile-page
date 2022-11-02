@@ -1,0 +1,22 @@
+.lang_name {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    border: 1px solid #EBEBEB;
+    border-radius: 12px;
+
+    height: 42px;
+    width: 164px;
+    margin-left: 10px;
+}
+
+img {
+    padding-right: 8px;
+    padding-left: 12px;
+}
